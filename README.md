@@ -12,7 +12,7 @@
 ## Технологический стек
 
 * **Язык**: Go (Golang)
-* **Конкурентность**: Goroutines, channels, mutex, waitgroup, context, предотвращение race condition и безопасная работа с общими данными.
+* **Конкурентность**: Goroutines, channels, mutex, waitgroup, context, предотвращение race condition и безопасная работа с общими данными (базовый уровень).
 * **Сеть и API**: HTTP, REST API, gRPC, JWT-аутентификация, написание middleware, логирование.
 * **Базы данных**: PostgreSQL, проектирование реляционных БД, написание SQL-запросов и ограничений (SQL constraints).
 * **Окружение и Инфраструктура**: Linux, написание Bash-скриптов, Docker, Docker-compose, Git (GitHub), основы CI/CD (GitHub Actions).
