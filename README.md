@@ -1,8 +1,10 @@
 # Максим Цепаев | Portfolio
 ### Go Backend Developer (Junior / Intern)
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maximtsepaev)<br>
-<img src="https://cdn.simpleicons.org/gmail/D14836" width="16" height="16" align="absmiddle"> [tsepaevmaxim@gmail.com](mailto:tsepaevmaxim@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maximtsepaev)
+<a href="mailto:tsepaevmaxim@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 * **О себе**: Студент 2 курса МИИГАиК (направление «Информационные системы и технологии»). Успешно окончил курс «Go-разработчик» от Яндекс Практикума. Пишу чистый и безопасный код на Go, умею работать с многопоточностью (concurrency) и проектировать логику взаимодействия микросервисов с реляционными базами данных и брокерами сообщений.
 * **Статус занятости**: Ищу стажировку (Golang-разработчик). Готов к гибридному формату работы в Москве.
