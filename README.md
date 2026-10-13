@@ -40,7 +40,7 @@
 * **Инфраструктура**: Проект и все зависимости (PostgreSQL, Kafka KRaft) полностью контейнеризованы с помощью многоэтапных сборок (multi-stage) и запускаются через Docker Compose.
 
 
-### [Task Planner (REST API)](https://github.com/maximtsepaev/go-final-project)
+### [TaskFlow-API](https://github.com/maximtsepaev/go-final-project)
 
 **Сервер планировщика задач с продвинутой логикой повторений**
 
